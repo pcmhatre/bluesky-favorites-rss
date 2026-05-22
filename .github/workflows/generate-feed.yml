@@ -23,6 +23,14 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      - name: Check secrets
+        env:
+          BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
+        run: |
+          if [ -z "$BSKY_HANDLE" ]; then echo "BSKY_HANDLE: NOT SET"; else echo "BSKY_HANDLE: set (${#BSKY_HANDLE} chars)"; fi
+          if [ -z "$BSKY_APP_PASSWORD" ]; then echo "BSKY_APP_PASSWORD: NOT SET"; else echo "BSKY_APP_PASSWORD: set (${#BSKY_APP_PASSWORD} chars)"; fi
+
       - name: Generate feed
         run: python3 generate_feed.py
         env:
