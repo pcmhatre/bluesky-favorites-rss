@@ -41,11 +41,11 @@ def fetch_likes(client: Client, actor: str, limit: int) -> list:
 
     while len(posts) < limit:
         batch_size = min(100, limit - len(posts))
-        kwargs = {"actor": actor, "limit": batch_size}
+        params = {"actor": actor, "limit": batch_size}
         if cursor:
-            kwargs["cursor"] = cursor
+            params["cursor"] = cursor
 
-        response = client.app.bsky.feed.get_actor_likes(**kwargs)
+        response = client.app.bsky.feed.get_actor_likes(params=params)
         feed = response.feed
         if not feed:
             break
