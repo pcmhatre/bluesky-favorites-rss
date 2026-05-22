@@ -154,10 +154,17 @@ def main():
     app_password = os.getenv("BSKY_APP_PASSWORD")
 
     if not handle or not app_password:
-        sys.exit(
-            "Error: BSKY_HANDLE and BSKY_APP_PASSWORD must be set.\n"
-            "Copy .env.example to .env and fill in your credentials."
-        )
+        in_ci = os.getenv("CI")
+        if in_ci:
+            sys.exit(
+                "Error: BSKY_HANDLE and BSKY_APP_PASSWORD secrets are not set.\n"
+                "Add them at: Settings → Secrets and variables → Actions → New repository secret"
+            )
+        else:
+            sys.exit(
+                "Error: BSKY_HANDLE and BSKY_APP_PASSWORD must be set.\n"
+                "Copy .env.example to .env and fill in your credentials."
+            )
 
     print(f"Authenticating as {handle}…")
     client = Client()
