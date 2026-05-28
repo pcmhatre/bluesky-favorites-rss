@@ -2,8 +2,6 @@
 
 Generates an RSS feed from your liked posts on [Bluesky](https://bsky.app), refreshed every 30 minutes via GitHub Actions.
 
-**Live feed:** `https://pcmhatre.github.io/bluesky-favorites-rss/feed.xml`
-
 ## How it works
 
 A scheduled GitHub Actions workflow authenticates with the Bluesky API, fetches your most recent liked posts, and commits an updated `feed.xml` to this repo. GitHub Pages serves the file as a public URL you can drop into any RSS reader.
