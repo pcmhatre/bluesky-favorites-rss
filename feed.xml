@@ -5,8 +5,16 @@
     <link>https://bsky.app/profile/patrix99.bsky.social</link>
     <description>Posts liked by patrix99.bsky.social on Bluesky</description>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 12:18:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 20:35:48 +0000</lastBuildDate>
     <atom:link href="https://bsky.app/profile/patrix99.bsky.social" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>"AI is operating at a PhD level" oh, so it's replying 'sorry for the late response' to every email…</title>
+      <link>https://bsky.app/profile/mbkplus.bsky.social/post/3mnfdih2q622h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/mbkplus.bsky.social/post/3mnfdih2q622h</guid>
+      <pubDate>Wed, 03 Jun 2026 14:37:09 +0000</pubDate>
+      <author>mbkplus.bsky.social (Mike Boylan-Kolchin)</author>
+      <description>"AI is operating at a PhD level" oh, so it's replying 'sorry for the late response' to every email and complaining about its labor conditions?</description>
+    </item>
     <item>
       <title>One of the reasons I reduced my time on Mastodon is because of the demands for content warnings on…</title>
       <link>https://bsky.app/profile/charles.littlegreenfootballs.com/post/3mlp4nmmrvd2h</link>
@@ -335,7 +343,7 @@ So, they delegate what would be community work to a “representative”</descri
       <link>https://bsky.app/profile/kenwhite.bsky.social/post/3lb5nfijfhs2l</link>
       <guid isPermaLink="true">https://bsky.app/profile/kenwhite.bsky.social/post/3lb5nfijfhs2l</guid>
       <pubDate>Sun, 17 Nov 2024 14:44:38 +0000</pubDate>
-      <author>kenwhite.bsky.social (Hostile Work Popehat)</author>
+      <author>kenwhite.bsky.social (The Popehat Fits Fine)</author>
       <description>It’s not always easy not quote-tweeting to make fun of an idiot</description>
     </item>
     <item>
@@ -860,14 +868,6 @@ America, please don’t treat this election as normal politics.</description>
       <pubDate>Sun, 17 Sep 2023 23:37:20 +0000</pubDate>
       <author>petersagal.bsky.social (Peter Sagal)</author>
       <description>Importing from the other site, but it applies here as well. As soon as I started following these rules, sometime  before I articulated them in late ‘21, my experience online improved immensely.</description>
-    </item>
-    <item>
-      <title>@stillframes.bsky.social I’m new here and got my invite code this morning. I will be sharing photos…</title>
-      <link>https://bsky.app/profile/damianward.bsky.social/post/3k5ozir4dw427</link>
-      <guid isPermaLink="true">https://bsky.app/profile/damianward.bsky.social/post/3k5ozir4dw427</guid>
-      <pubDate>Thu, 24 Aug 2023 09:29:29 +0000</pubDate>
-      <author>damianward.bsky.social (Damian Ward)</author>
-      <description>@stillframes.bsky.social I’m new here and got my invite code this morning. I will be sharing photos daily and hoping to be part of a community. Here are a few of my favourite images.</description>
     </item>
   </channel>
 </rss>
