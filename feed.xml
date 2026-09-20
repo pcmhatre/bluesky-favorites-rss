@@ -5,8 +5,16 @@
     <link>https://bsky.app/profile/patrix99.bsky.social</link>
     <description>Posts liked by patrix99.bsky.social on Bluesky</description>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 17:13:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 19:35:23 +0000</lastBuildDate>
     <atom:link href="https://bsky.app/profile/patrix99.bsky.social" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Americans: oh, look, a systemic issue. I will solve it individually</title>
+      <link>https://bsky.app/profile/kashana.blacksky.app/post/3mvxrhesjok2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/kashana.blacksky.app/post/3mvxrhesjok2u</guid>
+      <pubDate>Sun, 20 Sep 2026 17:56:34 +0000</pubDate>
+      <author>kashana.blacksky.app (Kashana)</author>
+      <description>Americans: oh, look, a systemic issue. I will solve it individually</description>
+    </item>
     <item>
       <title>post claude ergo prompter claude</title>
       <link>https://bsky.app/profile/pfrazee.com/post/3mrbfcejops2c</link>
@@ -862,14 +870,6 @@ America, please don’t treat this election as normal politics.</description>
       <pubDate>Sat, 06 Jan 2024 23:05:03 +0000</pubDate>
       <author>pedrogonnet.bsky.social (Pedro Gonnet)</author>
       <description>Thinking of going into politics just so that someone actually reads my thesis.</description>
-    </item>
-    <item>
-      <title>On the frequency of diverse friend groups. www.washingtonpost.com/politics/202...</title>
-      <link>https://bsky.app/profile/pbump.com/post/3kiczim7svk2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/pbump.com/post/3kiczim7svk2w</guid>
-      <pubDate>Sat, 06 Jan 2024 14:34:35 +0000</pubDate>
-      <author>pbump.com (Philip Bump)</author>
-      <description>On the frequency of diverse friend groups. www.washingtonpost.com/politics/202...</description>
     </item>
   </channel>
 </rss>
