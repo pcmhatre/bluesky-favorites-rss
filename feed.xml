@@ -5,7 +5,7 @@
     <link>https://bsky.app/profile/patrix99.bsky.social</link>
     <description>Posts liked by patrix99.bsky.social on Bluesky</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 12:51:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 17:38:15 +0000</lastBuildDate>
     <atom:link href="https://bsky.app/profile/patrix99.bsky.social" rel="self" type="application/rss+xml"/>
     <item>
       <title>Americans: oh, look, a systemic issue. I will solve it individually</title>
@@ -246,15 +246,6 @@ Listen here: podcasts.apple.com/us/podcast/m...</description>
       <pubDate>Wed, 05 Mar 2025 15:16:22 +0000</pubDate>
       <author>maique.eu (maique)</author>
       <description>I signed up anyway, and even upgraded a bit. Using it this weekend to send a bunch of photos to a client.</description>
-    </item>
-    <item>
-      <title>Picture street art in blue. Picture Shoreditch High Street, London. #streetart #art #arte #london…</title>
-      <link>https://bsky.app/profile/pictureman.bsky.social/post/3ljfzjcnf3s22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/pictureman.bsky.social/post/3ljfzjcnf3s22</guid>
-      <pubDate>Sun, 02 Mar 2025 18:04:22 +0000</pubDate>
-      <author>pictureman.bsky.social (The Picture Man)</author>
-      <description>Picture street art in blue.  Picture Shoreditch High Street, London.
-#streetart #art #arte #london #londonuk</description>
     </item>
     <item>
       <title>Cool street art I found on my way to paris markets yesterday</title>
@@ -870,6 +861,14 @@ America, please don’t treat this election as normal politics.</description>
       <pubDate>Sat, 06 Jan 2024 23:05:03 +0000</pubDate>
       <author>pedrogonnet.bsky.social (Pedro Gonnet)</author>
       <description>Thinking of going into politics just so that someone actually reads my thesis.</description>
+    </item>
+    <item>
+      <title>On the frequency of diverse friend groups. www.washingtonpost.com/politics/202...</title>
+      <link>https://bsky.app/profile/pbump.com/post/3kiczim7svk2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/pbump.com/post/3kiczim7svk2w</guid>
+      <pubDate>Sat, 06 Jan 2024 14:34:35 +0000</pubDate>
+      <author>pbump.com (Philip Bump)</author>
+      <description>On the frequency of diverse friend groups. www.washingtonpost.com/politics/202...</description>
     </item>
   </channel>
 </rss>
